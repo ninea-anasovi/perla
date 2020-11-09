@@ -2,6 +2,10 @@ body{
     background-color: #1a1a1a;
 }
 
+button:focus {
+    outline: 0;
+}
+
 /* .navbar {
     background-color: rgba(87, 16, 16);
 } */
