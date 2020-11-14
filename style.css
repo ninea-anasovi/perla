@@ -6,6 +6,19 @@ button:focus {
     outline: 0;
 }
 
+h1 {
+    font-family: 'Staatliches', cursive;
+    font-size: 4rem;
+}
+
+.mybutton {
+    background-color: #F5B00E;
+    color: white;
+    padding: 10px 22px;
+    font-weight: 500;
+
+}
+
 /* .navbar {
     background-color: rgba(87, 16, 16);
 } */
